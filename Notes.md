@@ -8,3 +8,5 @@ a <- 5  will not assign integer to a , it will still be double (we can verify th
 ## Other
 
 - Print refcard
+
+## To be visualized on paper
